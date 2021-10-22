@@ -1,0 +1,23 @@
+{
+  "name": "coffeerun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quyen-tsai/coffeerun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quyen-tsai/coffeerun/issues"
+  },
+  "homepage": "https://github.com/quyen-tsai/coffeerun#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
